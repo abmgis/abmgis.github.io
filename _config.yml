@@ -1,1 +1,8 @@
+title : ABMGIS 
+tagline: "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.abmgis.org" # the base hostname & protocol for your site
+
 theme: jekyll-theme-cayman
+
