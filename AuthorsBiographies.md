@@ -3,7 +3,7 @@
 ## Andrew Crooks
 
 
-<img align="left" src="./Images/Andrew.jpg" alt="A picture of the Andrew" width="200" border="5" /> Andrew Crooks is an associate professor in computational social science with a joint appointment between the Departments of Computational and Data Sciences and the Geography and GeoInformation Science at George Mason University. His areas of expertise specifically relate to integrating agent-based modelling and geographic information systems (GIS) to explore human behavior. Moreover, his research focuses on exploring and understanding the natural and socio-economic environments specifically urban areas using GIS, spatial analysis, social network analysis, social media, and agent-based modelling methodologies. More information about this work can be seen at: [http://www.gisagents.org](http://www.gisagents.org).
+<img align="left" src="./Images/Andrew1.png" alt="A picture of the Andrew" width="200" border="5" /> Andrew Crooks is an associate professor in computational social science with a joint appointment between the Departments of Computational and Data Sciences and the Geography and GeoInformation Science at George Mason University. His areas of expertise specifically relate to integrating agent-based modelling and geographic information systems (GIS) to explore human behavior. Moreover, his research focuses on exploring and understanding the natural and socio-economic environments specifically urban areas using GIS, spatial analysis, social network analysis, social media, and agent-based modelling methodologies. More information about this work can be seen at: [http://www.gisagents.org](http://www.gisagents.org).
 
 
 
