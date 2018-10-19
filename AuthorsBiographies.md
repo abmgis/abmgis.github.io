@@ -13,9 +13,7 @@
 
 
 ## Ed Manley
-<img align="left" src="./Images/Ed.jpg" alt="A picture of the Ed" width="200" border="5" /> &nbsp;
-
-Ed Manley is an associate professor at the Centre for Advanced Spatial Analysis (CASA), University College London. His research involves measuring and modelling the individual and collective behaviours that shape urban dynamics, drawing on new streams of data and simulation methods. Ed is particularly interested in advancing data-driven agent-based modelling in order to improve the understanding and prediction of complex social systems. More information about this work can be seen at: [http://www.urbanmovements.co.uk](http://www.urbanmovements.co.uk).
+<img align="left" src="./Images/Ed.jpg" alt="A picture of the Ed" width="200" border="5" /> Ed Manley is an associate professor at the Centre for Advanced Spatial Analysis (CASA), University College London. His research involves measuring and modelling the individual and collective behaviours that shape urban dynamics, drawing on new streams of data and simulation methods. Ed is particularly interested in advancing data-driven agent-based modelling in order to improve the understanding and prediction of complex social systems. More information about this work can be seen at: [http://www.urbanmovements.co.uk](http://www.urbanmovements.co.uk).
 
 
 &nbsp;
