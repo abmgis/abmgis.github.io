@@ -6,7 +6,7 @@ Below you cand read the chapter outlines for *Agent-based Modelling and Geograph
 
 The overarching aim of this chapter is to give the reader a contextual backgroundand general overview of the major developments in geographical modelling for thesimulation of the individual. The reader is introduced to a discussion around thepurpose of modelling as well how complexity theory has influenced the way thatwe view (and simulate) geographical systems. We end the chapter by discussingthe benefits of bringing together agent-based modelling and GIS.
 
-[Click here to find accompanying resources for this chapter](./abmgis/tree/master/Chapter01-ABMGIS).
+[Click here to find accompanying resources for this chapter](./abmgis/Chapter01-ABMGIS).
 
 ## Chapter 2:Introduction to Agent-based Modelling
 
