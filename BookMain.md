@@ -1,3 +1,5 @@
+<img align="left" src="./Images/BookCover.png" alt="A picture of the Andrew" width="400" border="5" />
+
 Agent-based models – computational models that simulate complex social interactions – have become a well established simulation tool in the social sciences, but until recently their potential within the spatial sciences has been limited.  This pioneering text, pulled together by an expert team of authors demonstrates how agent-based modelling can be integrated with geographical information systems (GIS) to produce new insights on complex geographical phenomena, from patterns of urban growth to trends in mobility, population dynamics and health. 
 
 Providing step-by-step guidance and packed full of practical examples, Agent-Based Modelling and Geographic Information Systems will show you: 
