@@ -1,5 +1,5 @@
 ---
-title: "Get The Book "
+title: "Get The Book"
 bg: purple
 color: black
 style: center
