@@ -1,8 +1,38 @@
-title : ABMGIS 
-tagline: "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
+---
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.abmgis.org" # the base hostname & protocol for your site
+port: 4000
+host: 0.0.0.0
+safe: false
 
-theme: jekyll-theme-cayman
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
+keywords:    "ABM, agent-based modelling, GIS, GISc, geography, spatial science"
+description: "A textbook on the use of agent-based modelling for simulating geographical systems'
+source_link: "https://www.abmgis.org/"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#00A4D8' #'#5681B8'
+  green:     '#9bcf2f'
+  purple:    '#66306A'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
 
