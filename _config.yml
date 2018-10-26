@@ -1,8 +1,6 @@
-
-### content configuration ###
 title:       "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
 keywords:    "ABM, agent-based modelling, GIS, GISc, geography, spatial science"
-description: "A textbook on the use of agent-based modelling for simulating geographical systems'
+description: "A textbook on the use of agent-based modelling for simulating geographical systems"
 source_link: "https://github.com/abmgis/abmgis"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
