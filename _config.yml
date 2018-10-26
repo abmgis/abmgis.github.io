@@ -1,13 +1,4 @@
 
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
-
-
 ### content configuration ###
 title:       "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
 keywords:    "ABM, agent-based modelling, GIS, GISc, geography, spatial science"
