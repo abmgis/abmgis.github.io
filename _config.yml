@@ -1,3 +1,13 @@
+
+---
+
+## site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
 title:       "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
 keywords:    "ABM, agent-based modelling, GIS, GISc, geography, spatial science"
 description: "A textbook on the use of agent-based modelling for simulating geographical systems"
