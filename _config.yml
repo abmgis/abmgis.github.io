@@ -1,8 +1,3 @@
----
-
-port: 4000
-host: 0.0.0.0
-safe: false
 
 
 ### site serving configuration ###
@@ -17,7 +12,7 @@ markdown: kramdown
 title:       "Agent-Based Modelling and Geographical Information Systems: A Practical Primer"
 keywords:    "ABM, agent-based modelling, GIS, GISc, geography, spatial science"
 description: "A textbook on the use of agent-based modelling for simulating geographical systems'
-source_link: "https://www.abmgis.org/"
+source_link: "https://github.com/abmgis/abmgis"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
