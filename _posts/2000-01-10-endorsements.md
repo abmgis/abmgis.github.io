@@ -1,6 +1,6 @@
 ---
 title: "Endorsements"
-bg: turquoise
+bg: blue
 color: black
 style: center
 ---
